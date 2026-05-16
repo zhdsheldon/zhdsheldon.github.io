@@ -15,3 +15,8 @@ date: 2026-05-14
 Paper:Langley J.N. (1905). "On the reaction of cells and of nerve-endings to certain poisons, chiefly as regards the reaction of striated muscle to nicotine and to curari". J Physiol. 33 (4–5): 374–413. doi:10.1113/jphysiol.1905.sp001128
 
 [Walter Bradford Cannon](https://en.wikipedia.org/wiki/Walter_Bradford_Cannon), 1871-1945, American physiologist and Professor at Harvard Medical School, coined the term "Fight-or-Flight" response in 1915, contribute to sympathetic nervous system studies. 
+
+[Claude Bernard](https://en.wikipedia.org/wiki/Claude_Bernard), 1813-1878, French physiologist, he originated the term "milieu intérieur",the "internal environment", and the associated concept of homeostasis (the latter term being coined by Walter Cannon). 
+Cannon-Washburn Hunger Experiment.
+
+
