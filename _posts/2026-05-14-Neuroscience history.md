@@ -19,4 +19,6 @@ Paper:Langley J.N. (1905). "On the reaction of cells and of nerve-endings to cer
 [Claude Bernard](https://en.wikipedia.org/wiki/Claude_Bernard), 1813-1878, French physiologist, he originated the term "milieu intérieur",the "internal environment", and the associated concept of homeostasis (the latter term being coined by Walter Cannon). 
 Cannon-Washburn Hunger Experiment.
 
-[Henry Hallett Dale](https://en.wikipedia.org/wiki/Henry_Hallett_Dale), English pharmacologist and physiologist, for his study of acetylcholine as agent in the chemical transmission of nerve pulses (neurotransmission) he shared the 1936 Nobel Prize in Physiology or Medicine with Otto Loewi.
+[Henry Hallett Dale](https://en.wikipedia.org/wiki/Henry_Hallett_Dale), 1875-1968, English pharmacologist and physiologist, for his study of acetylcholine as agent in the chemical transmission of nerve pulses (neurotransmission) he shared the 1936 Nobel Prize in Physiology or Medicine with Otto Loewi.Dale's principle.
+
+[Otto Loewi](https://en.wikipedia.org/wiki/Otto_Loewi), 1873-1961, German-born pharmacologist and psychobiologist who discovered the role of acetylcholine as an endogenous neurotransmitter.
