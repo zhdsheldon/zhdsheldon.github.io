@@ -13,4 +13,6 @@ date: 2026-08-20
 #### Ridgeplot
 Alternative to Seurat default "Ridgeplot": using R package [ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)
 
+Other resources: [edav.info](https://jtr13.github.io/EDAVold/ridgeline.html)
+
 
