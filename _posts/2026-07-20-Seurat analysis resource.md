@@ -6,6 +6,10 @@ date: 2026-08-20
 
 ### Seurat analysis resources
 
+
+#### ggplot2
+[ggplot2](https://ggplot2.tidyverse.org/reference/index.html)
+
 #### Ridgeplot
 Alternative to Seurat default "Ridgeplot": using R package [ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)
 
