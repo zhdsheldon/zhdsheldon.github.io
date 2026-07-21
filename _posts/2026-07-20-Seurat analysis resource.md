@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seurat analysis resources"
+title: "Seurat analysis resource"
 date: 2026-08-20
 ---
 
